@@ -20,3 +20,4 @@ function binSearch(inputValue, arrayRandomNumbers) {
 // alert.call(arrayRandomNumbers)
 window.alert(binSearch(10, arrayRandomNumbers))
 window.alert(countBinarySearch)
+//my name is Vasia
